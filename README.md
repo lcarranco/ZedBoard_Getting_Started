@@ -9,6 +9,12 @@ Followed this [Setup Guide](http://zedboard.org/sites/default/files/CY7C64225_Se
 The driver is an exe program. NOT a zip file. Download and install the exe
 ![alt text](https://github.com/lcarranco/zedBoard_getting_started/raw/master/src/images/driver.PNG)
 
-#9 in the Setup Guide shows the ZedBoard listed under Ports (Com & LPT) as "Cypress Serial (COM4). In my setup, it shows as the following:
+#9 in the Setup Guide shows the ZedBoard listed under Ports (Com & LPT) as "Cypress Serial (COM4)". In my setup, it shows as "USB Serial Port (COM3)"
 
 ![alt text](https://github.com/lcarranco/zedBoard_getting_started/raw/master/src/images/device-manager.PNG)
+
+#10 in the Setup Guide shows any Windows operating system not Windows XP needs to download the terminal program Tera Term
+
+After installing the Tera Term, need to set up the UART configuration. Make sure the ZedBoard is connected via USB to your computer and the device is powered on. Click File -> New Connection. Then click Serial and ok
+![alt text](https://github.com/lcarranco/zedBoard_getting_started/raw/master/src/images/tera-term-empty-console.png)
+![alt text](https://github.com/lcarranco/zedBoard_getting_started/raw/master/src/images/new-connection.png)
