@@ -7,8 +7,8 @@ Followed this [Setup Guide](http://zedboard.org/sites/default/files/CY7C64225_Se
 > Unzip the driver to a known directory, not a temporary directory that may be deleted later.
 
 The driver is an exe program. NOT a zip file.
-Inline-style: 
-![alt text](https://github.com/lcarranco/zedBoard_getting_started/raw/master/src/images/Capture.png "Logo Title Text 1")
+Inline-style:
+![alt text](https://github.com/lcarranco/zedBoard_getting_started/raw/master/src/images/Capture.PNG "Logo Title Text 1")
 
 Install the exe
 
